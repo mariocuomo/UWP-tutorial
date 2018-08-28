@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\mario\Desktop\uwpLogo.png</Source>
+    <SmallTileSource>C:\Users\mario\Desktop\uwpLogo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\mario\Desktop\uwpLogo.png</MediumTileSource>
+    <WideTileSource>C:\Users\mario\Desktop\uwpLogo.png</WideTileSource>
+    <LargeTileSource>C:\Users\mario\Desktop\uwpLogo.png</LargeTileSource>
+    <AppIconSource>C:\Users\mario\Desktop\uwpLogo.png</AppIconSource>
+    <SplashScreenSource>C:\Users\mario\Desktop\uwpLogo.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\mario\Desktop\uwpLogo.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

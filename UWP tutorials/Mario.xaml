@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="UWP_tutorials.Mario"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP_tutorials"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0" Source="Images/marioLogo.png" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Image>
+            <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Visible" VerticalScrollMode="Enabled">
+                <StackPanel VerticalAlignment="Center">
+                    <HyperlinkButton NavigateUri="http://mariocuomo.azurewebsites.net" HorizontalAlignment="Center"  MinHeight="30" FontSize="25" Content="mariocuomo.azurewebsites.net"></HyperlinkButton>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" FontSize="35" MinHeight="35" Text="I'm a student of computer engineering at Roma Tre University, in Rome. Born in 1997, I grew up during the computer and informatic boom. Always passionate, now I'm trying to improve my knowledge every day more about this immense world. The road will surely rise, but the important thing is never to give up. My motto (enough galilean) is OBSERVE, SUPPOSE and CREATE." Padding="20,0,20,0"></TextBlock>
+                    <Button Content="BACK" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" MinHeight="35" FontWeight="Medium" Padding="5,5,5,5" Click="Back"></Button>
+
+                </StackPanel>
+
+            </ScrollViewer>
+        </Grid>
+
+        <TextBlock Grid.Row="0" Text="MARIO CUOMO" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" MinHeight="30" FontWeight="Medium"></TextBlock>
+
+    </Grid>
+</Page>
