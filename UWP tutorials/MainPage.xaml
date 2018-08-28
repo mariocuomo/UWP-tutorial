@@ -40,7 +40,7 @@
                 
                 <!--Next Tutorial-->
                 <StackPanel VerticalAlignment="Center">
-                    <TextBlock Text="About UWP" HorizontalAlignment="Center" FontSize="20" FontWeight="Next post"></TextBlock>
+                    <TextBlock Text="Next post" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
                     <Button Background="Transparent">
                         <Image  Source="Images\next.jpg" Width="500"></Image>
                     </Button>

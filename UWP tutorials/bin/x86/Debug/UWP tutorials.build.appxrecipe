@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>14c70fe8-ef6d-4c6b-b7bf-8a8f4b0509a5</PackageIdentityName>
     <PackageIdentityPublisher>CN=mario</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\UWP tutorials.exe">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\UWP tutorials.exe">
       <PackagePath>entrypoint\UWP tutorials.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,227 +370,227 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LargeTile.scale-125.png">
       <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LargeTile.scale-150.png">
       <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SmallTile.scale-125.png">
       <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SmallTile.scale-150.png">
       <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Images\marioLogo.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\marioLogo.png">
       <PackagePath>Images\marioLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Images\uwpLogo.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\uwpLogo.png">
       <PackagePath>Images\uwpLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Images\mario.jpg">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\mario.jpg">
       <PackagePath>Images\mario.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Images\next.jpg">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\next.jpg">
       <PackagePath>Images\next.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Images\uwp.jpg">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\uwp.jpg">
       <PackagePath>Images\uwp.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\UWP tutorials.xr.xml">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\UWP tutorials.xr.xml">
       <PackagePath>UWP tutorials.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\Mario.xbf">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\Mario.xbf">
       <PackagePath>Mario.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mario\source\repos\UWP tutorials\UWP tutorials\bin\x86\Debug\Core\UWP tutorials.exe">
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x86\Debug\Core\UWP tutorials.exe">
       <PackagePath>UWP tutorials.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

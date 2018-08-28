@@ -27506,11 +27506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mario\\source\\repos\\UWP tutorials\\UWP tutorials\\UWP tutorials.csproj",
+      "projectUniqueName": "C:\\Users\\mario\\Documents\\GitHub\\UWP-tutorial\\UWP tutorials\\UWP tutorials.csproj",
       "projectName": "UWP tutorials",
-      "projectPath": "C:\\Users\\mario\\source\\repos\\UWP tutorials\\UWP tutorials\\UWP tutorials.csproj",
+      "projectPath": "C:\\Users\\mario\\Documents\\GitHub\\UWP-tutorial\\UWP tutorials\\UWP tutorials.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mario\\source\\repos\\UWP tutorials\\UWP tutorials\\obj\\",
+      "outputPath": "C:\\Users\\mario\\Documents\\GitHub\\UWP-tutorial\\UWP tutorials\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
