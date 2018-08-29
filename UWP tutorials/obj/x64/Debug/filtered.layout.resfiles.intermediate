@@ -48,10 +48,12 @@ Assets\Wide310x150Logo.scale-400.png
 App.xbf
 MainPage.xbf
 Mario.xbf
+ResponsiveLayout\ResponsiveLayout.xbf
 UWP tutorials.xr.xml
 Images\mario.jpg
 Images\marioLogo.png
 Images\next.jpg
+Images\ResponsiveLayout.jpg
 Images\uwp.jpg
 Images\uwpLogo.png
 Properties\Default.rd.xml

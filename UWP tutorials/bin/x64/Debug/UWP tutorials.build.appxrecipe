@@ -565,6 +565,9 @@
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\next.jpg">
       <PackagePath>Images\next.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\ResponsiveLayout.jpg">
+      <PackagePath>Images\ResponsiveLayout.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\uwp.jpg">
       <PackagePath>Images\uwp.jpg</PackagePath>
     </AppxPackagedFile>
@@ -582,6 +585,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\Mario.xbf">
       <PackagePath>Mario.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ResponsiveLayout\ResponsiveLayout.xbf">
+      <PackagePath>ResponsiveLayout\ResponsiveLayout.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

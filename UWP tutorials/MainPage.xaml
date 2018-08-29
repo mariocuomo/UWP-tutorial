@@ -19,8 +19,8 @@
         <TextBlock Grid.Row="0" Text="UWP TUTORIALS" FontSize="50" FontWeight="Medium" HorizontalAlignment="Center" VerticalAlignment="Center" MinHeight="40"></TextBlock>
         
         <!--Tutorials-->
-        <ScrollViewer Grid.Row="1" HorizontalScrollMode="Enabled" HorizontalScrollBarVisibility="Visible">
-            <StackPanel Orientation="Horizontal" Windows10FallCreatorsUpdate:Spacing="30">
+        <ScrollViewer Grid.Row="1" HorizontalScrollMode="Enabled" HorizontalScrollBarVisibility="Visible" Padding="10,0,10,0">
+            <StackPanel Orientation="Horizontal" Windows10FallCreatorsUpdate:Spacing="40">
                 
                 <!--About Mario Cuomo-->
                 <StackPanel VerticalAlignment="Center">
@@ -38,6 +38,14 @@
                     </Button>
                 </StackPanel>
                 
+                <!--Next Tutorial-->
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Responsive Layout" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
+                    <Button Background="Transparent" Click="ResponsiveLayout">
+                        <Image  Source="Images\ResponsiveLayout.jpg" Width="500"></Image>
+                    </Button>
+                </StackPanel>
+
                 <!--Next Tutorial-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Next post" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>

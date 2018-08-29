@@ -102,6 +102,9 @@
       <DependentUpon>Mario.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResponsiveLayout\ResponsiveLayout.xaml.cs">
+      <DependentUpon>ResponsiveLayout.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -153,6 +156,7 @@
     <Content Include="Images\mario.jpg" />
     <Content Include="Images\marioLogo.png" />
     <Content Include="Images\next.jpg" />
+    <Content Include="Images\ResponsiveLayout.jpg" />
     <Content Include="Images\uwp.jpg" />
     <Content Include="Images\uwpLogo.png" />
     <Content Include="Properties\Default.rd.xml" />
@@ -173,6 +177,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Mario.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ResponsiveLayout\ResponsiveLayout.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

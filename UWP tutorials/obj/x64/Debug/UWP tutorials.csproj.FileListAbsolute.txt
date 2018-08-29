@@ -223,3 +223,8 @@ C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\Multipl
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\resources.en-us.resfiles
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\resources.en-us.resfiles.intermediate
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ResponsiveLayout\ResponsiveLayout.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.g.i.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.g.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.xaml
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.xbf

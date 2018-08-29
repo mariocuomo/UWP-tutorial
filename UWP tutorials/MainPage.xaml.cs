@@ -38,5 +38,10 @@ namespace UWP_tutorials
             var uri = new Uri("http://mariocuomo.azurewebsites.net/2018/08/26/about-an-universal-windows-platform-project/");
             Windows.System.Launcher.LaunchUriAsync(uri);
         }
+
+        private void ResponsiveLayout(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ResponsiveLayout.ResponsiveLayout));
+        }
     }
 }
