@@ -43,5 +43,10 @@ namespace UWP_tutorials
         {
             this.Frame.Navigate(typeof(ResponsiveLayout.ResponsiveLayout));
         }
+
+        private void CountClick(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(CountClick.CountClick));
+        }
     }
 }

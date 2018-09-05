@@ -46,6 +46,14 @@
                     </Button>
                 </StackPanel>
 
+                <!--Count Click-->
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Count Click" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
+                    <Button Background="Transparent" Click="CountClick">
+                        <Image  Source="Images\CountClick.jpg" Width="500"></Image>
+                    </Button>
+                </StackPanel>
+
                 <!--Next Tutorial-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Next post" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
@@ -53,6 +61,7 @@
                         <Image  Source="Images\next.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
+
             </StackPanel>
         </ScrollViewer>
     </Grid>

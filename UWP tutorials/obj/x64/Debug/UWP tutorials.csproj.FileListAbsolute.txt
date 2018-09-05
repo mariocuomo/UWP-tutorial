@@ -228,3 +228,8 @@ C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\Respons
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.g.cs
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.xaml
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ResponsiveLayout\ResponsiveLayout.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\CountClick\CountClick.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.g.i.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.g.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.xaml
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.xbf

@@ -559,6 +559,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\CountClick.jpg">
+      <PackagePath>Images\CountClick.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\mario.jpg">
       <PackagePath>Images\mario.jpg</PackagePath>
     </AppxPackagedFile>
@@ -579,6 +582,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\CountClick\CountClick.xbf">
+      <PackagePath>CountClick\CountClick.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
