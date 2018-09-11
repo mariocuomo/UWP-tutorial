@@ -48,5 +48,10 @@ namespace UWP_tutorials
         {
             this.Frame.Navigate(typeof(CountClick.CountClick));
         }
+
+        private void ChangePage(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ChangePage.ChangePage));
+        }
     }
 }

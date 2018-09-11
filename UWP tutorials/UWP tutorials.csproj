@@ -95,6 +95,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ChangePage\ChangePage.xaml.cs">
+      <DependentUpon>ChangePage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CountClick\CountClick.xaml.cs">
       <DependentUpon>CountClick.xaml</DependentUpon>
     </Compile>
@@ -156,6 +159,7 @@
     <Content Include="Assets\Wide310x150Logo.scale-125.png" />
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="Images\ChangePage.jpg" />
     <Content Include="Images\CountClick.jpg" />
     <Content Include="Images\mario.jpg" />
     <Content Include="Images\marioLogo.png" />
@@ -176,6 +180,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="ChangePage\ChangePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="CountClick\CountClick.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -189,21 +189,23 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[6];
-            _typeNameTable[0] = "UWP_tutorials.CountClick.CountClick";
+            _typeNameTable = new string[7];
+            _typeNameTable[0] = "UWP_tutorials.ChangePage.ChangePage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "UWP_tutorials.MainPage";
-            _typeNameTable[4] = "UWP_tutorials.Mario";
-            _typeNameTable[5] = "UWP_tutorials.ResponsiveLayout.ResponsiveLayout";
+            _typeNameTable[3] = "UWP_tutorials.CountClick.CountClick";
+            _typeNameTable[4] = "UWP_tutorials.MainPage";
+            _typeNameTable[5] = "UWP_tutorials.Mario";
+            _typeNameTable[6] = "UWP_tutorials.ResponsiveLayout.ResponsiveLayout";
 
-            _typeTable = new global::System.Type[6];
-            _typeTable[0] = typeof(global::UWP_tutorials.CountClick.CountClick);
+            _typeTable = new global::System.Type[7];
+            _typeTable[0] = typeof(global::UWP_tutorials.ChangePage.ChangePage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::UWP_tutorials.MainPage);
-            _typeTable[4] = typeof(global::UWP_tutorials.Mario);
-            _typeTable[5] = typeof(global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout);
+            _typeTable[3] = typeof(global::UWP_tutorials.CountClick.CountClick);
+            _typeTable[4] = typeof(global::UWP_tutorials.MainPage);
+            _typeTable[5] = typeof(global::UWP_tutorials.Mario);
+            _typeTable[6] = typeof(global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -238,10 +240,11 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_CountClick() { return new global::UWP_tutorials.CountClick.CountClick(); }
-        private object Activate_3_MainPage() { return new global::UWP_tutorials.MainPage(); }
-        private object Activate_4_Mario() { return new global::UWP_tutorials.Mario(); }
-        private object Activate_5_ResponsiveLayout() { return new global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout(); }
+        private object Activate_0_ChangePage() { return new global::UWP_tutorials.ChangePage.ChangePage(); }
+        private object Activate_3_CountClick() { return new global::UWP_tutorials.CountClick.CountClick(); }
+        private object Activate_4_MainPage() { return new global::UWP_tutorials.MainPage(); }
+        private object Activate_5_Mario() { return new global::UWP_tutorials.Mario(); }
+        private object Activate_6_ResponsiveLayout() { return new global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -253,9 +256,9 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  UWP_tutorials.CountClick.CountClick
+            case 0:   //  UWP_tutorials.ChangePage.ChangePage
                 userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_CountClick;
+                userType.Activator = Activate_0_ChangePage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -268,23 +271,30 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
                 xamlType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  UWP_tutorials.MainPage
+            case 3:   //  UWP_tutorials.CountClick.CountClick
                 userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_MainPage;
+                userType.Activator = Activate_3_CountClick;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  UWP_tutorials.Mario
+            case 4:   //  UWP_tutorials.MainPage
                 userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_Mario;
+                userType.Activator = Activate_4_MainPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 5:   //  UWP_tutorials.ResponsiveLayout.ResponsiveLayout
+            case 5:   //  UWP_tutorials.Mario
                 userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_5_ResponsiveLayout;
+                userType.Activator = Activate_5_Mario;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 6:   //  UWP_tutorials.ResponsiveLayout.ResponsiveLayout
+                userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_6_ResponsiveLayout;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

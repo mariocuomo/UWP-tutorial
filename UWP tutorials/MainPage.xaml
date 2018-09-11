@@ -38,7 +38,7 @@
                     </Button>
                 </StackPanel>
                 
-                <!--Next Tutorial-->
+                <!--Responsive Layout-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Responsive Layout" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
                     <Button Background="Transparent" Click="ResponsiveLayout">
@@ -51,6 +51,14 @@
                     <TextBlock Text="Count Click" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
                     <Button Background="Transparent" Click="CountClick">
                         <Image  Source="Images\CountClick.jpg" Width="500"></Image>
+                    </Button>
+                </StackPanel>
+
+                <!--Change Page-->
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Change Page" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
+                    <Button Background="Transparent" Click="ChangePage">
+                        <Image  Source="Images\ChangePage.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
 

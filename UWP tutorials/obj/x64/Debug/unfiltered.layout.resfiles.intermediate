@@ -46,11 +46,13 @@ Assets\Wide310x150Logo.scale-150.png
 Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
 App.xbf
+ChangePage\ChangePage.xbf
 CountClick\CountClick.xbf
 MainPage.xbf
 Mario.xbf
 ResponsiveLayout\ResponsiveLayout.xbf
 UWP tutorials.xr.xml
+Images\ChangePage.jpg
 Images\CountClick.jpg
 Images\mario.jpg
 Images\marioLogo.png

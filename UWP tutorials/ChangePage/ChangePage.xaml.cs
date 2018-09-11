@@ -15,35 +15,21 @@ using Windows.UI.Xaml.Navigation;
 
 // Il modello di elemento Pagina vuota è documentato all'indirizzo https://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace UWP_tutorials.CountClick
+namespace UWP_tutorials.ChangePage
 {
     /// <summary>
     /// Pagina vuota che può essere usata autonomamente oppure per l'esplorazione all'interno di un frame.
     /// </summary>
-    public sealed partial class CountClick : Page
+    public sealed partial class ChangePage : Page
     {
-        int click;
-        TextBox counterText;
-
-        public CountClick()
+        public ChangePage()
         {
             this.InitializeComponent();
-            click = 0;
-            counterText= this.FindName("counter") as TextBox;
         }
 
-        private void Click(object sender, RoutedEventArgs e)
-        {
-            click++;
-            counterText.Text = click.ToString();
-        }
-
-
-
-        private void Back(object sender, RoutedEventArgs e)
+        private void Change(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(MainPage));
         }
-
     }
 }

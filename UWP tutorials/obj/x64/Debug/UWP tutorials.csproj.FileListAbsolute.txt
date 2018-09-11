@@ -233,3 +233,8 @@ C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountCl
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.g.cs
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.xaml
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\CountClick\CountClick.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.g.i.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.g.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.xaml
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ChangePage\ChangePage.xbf
