@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F93481D0DD12C821AD41396DA54A8E5A01E02D98385D02E20D8A899542A059A5</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>29DD5C7FACC90997372113F10668021AFB4513EDBA4E3AE0EEE4B7C8E803CC9E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>14c70fe8-ef6d-4c6b-b7bf-8a8f4b0509a5_1.0.0.0_x64__xacsdycwqxpfy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>14c70fe8-ef6d-4c6b-b7bf-8a8f4b0509a5_xacsdycwqxpfy!App</RegisteredUserModeAppID>
     <RegisteredPackageID>14c70fe8-ef6d-4c6b-b7bf-8a8f4b0509a5</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-11T18:04:48.902</Modified>
+      <Modified>2018-09-20T17:54:39.222</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\UWP tutorials.exe">
       <PackagePath>entrypoint\UWP tutorials.exe</PackagePath>
-      <Modified>2018-09-11T18:04:46.837</Modified>
+      <Modified>2018-09-20T17:54:36.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -752,6 +752,10 @@
       <PackagePath>Images\ResponsiveLayout.jpg</PackagePath>
       <Modified>2018-08-29T11:52:28.840</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\RightButton.jpg">
+      <PackagePath>Images\RightButton.jpg</PackagePath>
+      <Modified>2018-09-20T17:53:46.736</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\Images\uwp.jpg">
       <PackagePath>Images\uwp.jpg</PackagePath>
       <Modified>2018-08-27T14:36:31.317</Modified>
@@ -762,31 +766,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\UWP tutorials.xr.xml">
       <PackagePath>UWP tutorials.xr.xml</PackagePath>
-      <Modified>2018-09-11T17:53:24.400</Modified>
+      <Modified>2018-09-20T17:44:53.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.286</Modified>
+      <Modified>2018-09-20T17:54:35.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ChangePage\ChangePage.xbf">
       <PackagePath>ChangePage\ChangePage.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.288</Modified>
+      <Modified>2018-09-20T17:54:35.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\CountClick\CountClick.xbf">
       <PackagePath>CountClick\CountClick.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.300</Modified>
+      <Modified>2018-09-20T17:54:35.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.302</Modified>
+      <Modified>2018-09-20T17:54:35.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\Mario.xbf">
       <PackagePath>Mario.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.308</Modified>
+      <Modified>2018-09-20T17:54:35.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ResponsiveLayout\ResponsiveLayout.xbf">
       <PackagePath>ResponsiveLayout\ResponsiveLayout.xbf</PackagePath>
-      <Modified>2018-09-11T18:04:46.310</Modified>
+      <Modified>2018-09-20T17:54:35.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\RightButton\RightButton.xbf">
+      <PackagePath>RightButton\RightButton.xbf</PackagePath>
+      <Modified>2018-09-20T17:54:35.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -795,11 +803,11 @@
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-11T18:03:42.384</Modified>
+      <Modified>2018-09-20T17:54:37.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\Core\UWP tutorials.exe">
       <PackagePath>UWP tutorials.exe</PackagePath>
-      <Modified>2018-09-11T18:04:48.884</Modified>
+      <Modified>2018-09-20T17:54:39.134</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -25,7 +25,7 @@
                 <!--About Mario Cuomo-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="About Mario Cuomo" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
-                    <Button x:ConnectionId='6' Background="Transparent"              >
+                    <Button x:ConnectionId='7' Background="Transparent"              >
                         <Image  Source="Images\mario.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
@@ -33,7 +33,7 @@
                 <!--About Universal Windows Platform-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="About UWP" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
-                    <Button x:ConnectionId='5' Background="Transparent"            >
+                    <Button x:ConnectionId='6' Background="Transparent"            >
                         <Image  Source="Images\uwp.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
@@ -41,7 +41,7 @@
                 <!--Responsive Layout-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Responsive Layout" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
-                    <Button x:ConnectionId='4' Background="Transparent"                         >
+                    <Button x:ConnectionId='5' Background="Transparent"                         >
                         <Image  Source="Images\ResponsiveLayout.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
@@ -49,7 +49,7 @@
                 <!--Count Click-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Count Click" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
-                    <Button x:ConnectionId='3' Background="Transparent"                   >
+                    <Button x:ConnectionId='4' Background="Transparent"                   >
                         <Image  Source="Images\CountClick.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
@@ -57,8 +57,16 @@
                 <!--Change Page-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Change Page" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
-                    <Button x:ConnectionId='2' Background="Transparent"                   >
+                    <Button x:ConnectionId='3' Background="Transparent"                   >
                         <Image  Source="Images\ChangePage.jpg" Width="500"></Image>
+                    </Button>
+                </StackPanel>
+
+                <!--Right Button-->
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Right Button" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
+                    <Button x:ConnectionId='2' Background="Transparent"                    >
+                        <Image  Source="Images\next.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
 
@@ -66,7 +74,7 @@
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Next post" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
                     <Button Background="Transparent">
-                        <Image  Source="Images\next.jpg" Width="500"></Image>
+                        <Image  Source="Images\RightButton.jpg" Width="500"></Image>
                     </Button>
                 </StackPanel>
 

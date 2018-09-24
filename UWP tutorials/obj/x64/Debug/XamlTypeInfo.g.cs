@@ -189,7 +189,7 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[7];
+            _typeNameTable = new string[8];
             _typeNameTable[0] = "UWP_tutorials.ChangePage.ChangePage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
@@ -197,8 +197,9 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
             _typeNameTable[4] = "UWP_tutorials.MainPage";
             _typeNameTable[5] = "UWP_tutorials.Mario";
             _typeNameTable[6] = "UWP_tutorials.ResponsiveLayout.ResponsiveLayout";
+            _typeNameTable[7] = "UWP_tutorials.RightButton.RightButton";
 
-            _typeTable = new global::System.Type[7];
+            _typeTable = new global::System.Type[8];
             _typeTable[0] = typeof(global::UWP_tutorials.ChangePage.ChangePage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
@@ -206,6 +207,7 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
             _typeTable[4] = typeof(global::UWP_tutorials.MainPage);
             _typeTable[5] = typeof(global::UWP_tutorials.Mario);
             _typeTable[6] = typeof(global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout);
+            _typeTable[7] = typeof(global::UWP_tutorials.RightButton.RightButton);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -245,6 +247,7 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
         private object Activate_4_MainPage() { return new global::UWP_tutorials.MainPage(); }
         private object Activate_5_Mario() { return new global::UWP_tutorials.Mario(); }
         private object Activate_6_ResponsiveLayout() { return new global::UWP_tutorials.ResponsiveLayout.ResponsiveLayout(); }
+        private object Activate_7_RightButton() { return new global::UWP_tutorials.RightButton.RightButton(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -295,6 +298,13 @@ namespace UWP_tutorials.UWP_tutorials_XamlTypeInfo
             case 6:   //  UWP_tutorials.ResponsiveLayout.ResponsiveLayout
                 userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_6_ResponsiveLayout;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 7:   //  UWP_tutorials.RightButton.RightButton
+                userType = new global::UWP_tutorials.UWP_tutorials_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_7_RightButton;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

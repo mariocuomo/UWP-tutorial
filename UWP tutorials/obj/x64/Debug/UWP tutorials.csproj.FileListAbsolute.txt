@@ -238,3 +238,8 @@ C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangeP
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.xaml
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\ChangePage\ChangePage.xbf
 C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\ChangePage\ChangePage.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\bin\x64\Debug\RightButton\RightButton.xbf
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\RightButton\RightButton.g.i.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\RightButton\RightButton.g.cs
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\RightButton\RightButton.xaml
+C:\Users\mario\Documents\GitHub\UWP-tutorial\UWP tutorials\obj\x64\Debug\RightButton\RightButton.xbf

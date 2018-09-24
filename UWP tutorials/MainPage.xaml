@@ -62,6 +62,14 @@
                     </Button>
                 </StackPanel>
 
+                <!--Right Button-->
+                <StackPanel VerticalAlignment="Center">
+                    <TextBlock Text="Right Button" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>
+                    <Button Background="Transparent" Click="RightButton">
+                        <Image  Source="Images\RightButton.jpg" Width="500"></Image>
+                    </Button>
+                </StackPanel>
+
                 <!--Next Tutorial-->
                 <StackPanel VerticalAlignment="Center">
                     <TextBlock Text="Next post" HorizontalAlignment="Center" FontSize="20" FontWeight="SemiBold"></TextBlock>

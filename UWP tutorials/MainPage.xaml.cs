@@ -53,5 +53,11 @@ namespace UWP_tutorials
         {
             this.Frame.Navigate(typeof(ChangePage.ChangePage));
         }
+
+        private void RightButton(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(RightButton.RightButton));
+        }
+        
     }
 }

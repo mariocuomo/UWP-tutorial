@@ -51,6 +51,7 @@ CountClick\CountClick.xbf
 MainPage.xbf
 Mario.xbf
 ResponsiveLayout\ResponsiveLayout.xbf
+RightButton\RightButton.xbf
 UWP tutorials.xr.xml
 Images\ChangePage.jpg
 Images\CountClick.jpg
@@ -58,6 +59,7 @@ Images\mario.jpg
 Images\marioLogo.png
 Images\next.jpg
 Images\ResponsiveLayout.jpg
+Images\RightButton.jpg
 Images\uwp.jpg
 Images\uwpLogo.png
 Properties\Default.rd.xml
